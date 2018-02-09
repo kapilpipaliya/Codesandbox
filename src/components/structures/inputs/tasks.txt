@@ -1,0 +1,11 @@
+Convert this component to Stateless:
+Material-UI: NumberInput, SimpleSelectMaterial
+Semantic-UI: Select.js
+
+Make all components support props passed from externally.
+
+Use Tree From https://www.primefaces.org/primereact/#/tree
+
+
+Good Example:
+ReactWidgets : NumberPicker
